@@ -4,7 +4,6 @@ patches-version = "dev"
 cli-version = "dev"
 
 [YouTube-Extended]
-enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
