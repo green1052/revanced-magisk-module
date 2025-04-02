@@ -11,4 +11,4 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+uptodown-dlurl = "https://spotify.uptodown.com/android"
