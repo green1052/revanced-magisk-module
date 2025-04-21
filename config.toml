@@ -8,9 +8,8 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
 
 [YouTube-Extended]
-app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
