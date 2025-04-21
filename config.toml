@@ -1,17 +1,13 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = true
 parallel-jobs = 1
-
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
+patches-version = "dev"
+cli-version = "dev"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
 
 [YouTube-Extended]
-enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
