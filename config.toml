@@ -5,7 +5,7 @@ cli-version = "dev"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-version = "9.0.36.683"
+arch = "arm64-v8a"
 
 [YouTube-Extended]
 patches-source = "inotia00/revanced-patches"
