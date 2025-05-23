@@ -5,6 +5,7 @@ cli-version = "dev"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+arch = "arm64-v8a"
 
 [YouTube-Extended]
 patches-source = "inotia00/revanced-patches"
@@ -12,3 +13,4 @@ cli-source = "inotia00/revanced-cli"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+arch = "arm64-v8a"
