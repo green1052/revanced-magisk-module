@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches dev.9)",
-  "versionCode": 80,
-  "zipUrl": "https://github.com/green1052/revanced-magisk-module/releases/download/80/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches dev.13)",
+  "versionCode": 81,
+  "zipUrl": "https://github.com/green1052/revanced-magisk-module/releases/download/81/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/green1052/revanced-magisk-module/update/build.md"
 }
