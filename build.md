@@ -10,4 +10,4 @@ Patches: inotia00/patches-5.10.1-dev.4.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.10.1-dev.4)  
 
 Skipped:  
-Patches: ReVanced/patches-5.34.1-dev.3.rvp            
+Patches: ReVanced/patches-5.34.1-dev.3.rvp              
