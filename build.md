@@ -1,4 +1,3 @@
-Spotify: 9.0.76.1115  
 YouTube: 20.14.43  
 YouTube-Extended: 20.05.46  
 
@@ -8,11 +7,11 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.12.1-dev.5.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1-dev.5)
+Patches: inotia00/patches-5.12.1-dev.6.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1-dev.6)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.42.0-dev.5.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.0-dev.5)
+Patches: ReVanced/patches-5.42.0-dev.8.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.0-dev.8)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar    
