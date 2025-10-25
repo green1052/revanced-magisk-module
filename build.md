@@ -13,4 +13,4 @@ Patches: ReVanced/patches-5.44.0-dev.4.rvp
 CLI: j-hc/revanced-cli-5.0.0-all.jar    
 
 Skipped:  
-Patches: inotia00/patches-5.13.1-dev.1.rvp                  
+Patches: inotia00/patches-5.13.1-dev.1.rvp                    
