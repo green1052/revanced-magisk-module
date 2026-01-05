@@ -1,5 +1,3 @@
-Spotify: 9.0.76.1115  
-YouTube: 20.14.43  
 YouTube-Extended: 20.05.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -9,10 +7,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
   
 CLI: inotia00/revanced-cli-5.0.2-all.jar  
 Patches: inotia00/patches-5.14.1-dev.9.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.14.1-dev.9)
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.14.1-dev.9)  
 
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0-dev.8.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0-dev.8)
-
-CLI: j-hc/revanced-cli-5.0.0-all.jar    
+Skipped:  
+Patches: ReVanced/patches-5.48.0-dev.8.rvp    
