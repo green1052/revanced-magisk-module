@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches dev.9.mpp)",
-  "versionCode": 215,
-  "zipUrl": "https://github.com/green1052/revanced-magisk-module/releases/download/215/youtube-morphe-magisk-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches dev.10.mpp)",
+  "versionCode": 216,
+  "zipUrl": "https://github.com/green1052/revanced-magisk-module/releases/download/216/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/green1052/revanced-magisk-module/update/build.md"
 }
