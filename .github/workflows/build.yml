@@ -115,6 +115,10 @@ jobs:
           else
             echo "no changes!"
           fi
+  
+      - uses: Nats-ji/delete-old-releases@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Report to Telegram
         env:
