@@ -121,6 +121,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           keep-count: 1
           keep-old-minor-releases: false
+          remove-tags: true
 
       - name: Report to Telegram
         env:
